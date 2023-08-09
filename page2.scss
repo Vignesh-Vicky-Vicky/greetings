@@ -17,6 +17,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+  padding: 32px;
 }
 
 .card-container {
@@ -43,14 +44,14 @@ body {
   p {
     color: #ffffff;
     text-align: center;
-    font-size: 28px;
+    font-size: 24px;
     margin-bottom: 20px;
     font-family: "Dancing Script", cursive;
     letter-spacing: 1px;
   }
 
   h6 {
-    font-size: 70px;
+    font-size: 50px;
     font-family: "Dancing Script", cursive;
     margin-top: 32px;
     color: #ffffff;
