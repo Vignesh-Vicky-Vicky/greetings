@@ -22,10 +22,10 @@ body {
 }
 
 .card-container {
-  width: 60%;
+  width: 70%;
   background: #f7476a;
   min-height: 300px;
-  padding: 64px 32px;
+  padding: 64px 48px;
   border-radius: 140px 12px;
   display: flex;
   flex-direction: column;
